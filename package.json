@@ -1,6 +1,6 @@
 {
     "name": "haramultipass",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Haravan Multipass module for Node.js",
     "homepage": "https://github.com/Haravan/haramultipass",
     "main": "./haramultipass.js",
