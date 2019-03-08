@@ -1,0 +1,34 @@
+{
+    "name": "haramultipass",
+    "version": "1.0.2",
+    "description": "Haravan Multipass module for Node.js",
+    "homepage": "https://github.com/Haravan/haramultipass",
+    "main": "./haramultipass.js",
+    "keywords": [
+        "haravan",
+        "multipass",
+        "haramultipass"
+    ],
+    "engines": [
+        "node"
+    ],
+    "authors": [
+        "Lublue"
+    ],
+    "contributors": [
+    ],
+    "bugs": {
+        "url": "https://github.com/Haravan/haramultipass/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Haravan/haramultipass.git"
+    },
+    "dependencies": {
+        "crypto": "0.0.3"
+    },
+    "readme": "",
+    "readmeFilename": "README.md",
+    "_id": "haramultipass@1.0.0",
+    "_from": "haramultipass@1.0.0"
+}
