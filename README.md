@@ -7,7 +7,7 @@ Haravan Multipass module for Node.js
 
 [Haravan](https://www.haravan.com/) provides a mechanism for single sign-on known as Multipass.  Multipass uses an AES encrypted JSON hash and haramultipass provides functions for generating tokens
 
-More details on Multipass with Haravan can be found [here](https://docs.haravan.com/blogs/ui-integrations/1000017816-multipass).
+More details on Multipass with Haravan can be found [here](https://docs.haravan.com/support/solutions/articles/42000088404-multipass).
 
 ## Installation
 <pre>
